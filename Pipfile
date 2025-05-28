@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 groq = "*"
+speechrecognition = "*"
+pydub = "*"
+python-dotenv = "*"
+pipwin = "*"
 
 [dev-packages]
 
