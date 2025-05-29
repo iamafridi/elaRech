@@ -30,7 +30,7 @@ def process_inputs(audio_filepath, image_filepath):
         researcher_response = analysis_image_with_query(
             query=system_prompt + " " + speech_to_text_output, 
             encoded_image=encode_image(image_filepath), 
-            model="llama-3.2-11b-vision-preview"
+            model="meta-llama/llama-4-maverick-17b-128e-instruct"
         )
     else:
         researcher_response = "No image provided for me to analyze"
@@ -95,7 +95,7 @@ iface.launch(debug=True)
 
 #     # Handle the image input
 #     if image_filepath:
-#         researcher_response = analysis_image_with_query(query=system_prompt+speech_to_text_output, encoded_image=encode_image(image_filepath), model="llama-3.2-11b-vision-preview")
+#         researcher_response = analysis_image_with_query(query=system_prompt+speech_to_text_output, encoded_image=encode_image(image_filepath), model="meta-llama/llama-4-maverick-17b-128e-instruct")
 #     else:
 #         researcher_response = "No image provided for me to analyze"
 
