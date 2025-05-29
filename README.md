@@ -70,9 +70,9 @@ MIT License
 
 
 ### 👤 Author
-Afridi Akbar Ifty /n
-GitHub: https://github.com/iamafridi /n
-Portfolio : https://iamafrididev.netlify.app /n
+Afridi Akbar Ifty 
+GitHub: https://github.com/iamafridi 
+Portfolio : https://iamafrididev.netlify.app 
 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/iamafridi/) 
 
 
