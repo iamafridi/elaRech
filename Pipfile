@@ -9,6 +9,7 @@ speechrecognition = "*"
 pydub = "*"
 python-dotenv = "*"
 pipwin = "*"
+gtts = "*"
 
 [dev-packages]
 
