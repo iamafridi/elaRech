@@ -1,6 +1,6 @@
-# 🎓 ElaRech – Multimodal Research Assistant
+# 🎓 ElaRech – Multimodal Virtual Learning Assistant
 
-**ElaRech** is an intelligent, voice-interactive **multimodal research assistant** that helps students explore and understand visual academic content like diagrams, charts, handwritten notes, or research papers. Just **speak your query**, upload an image, and ElaRech will answer both visually and audibly.
+**ElaRech** is an intelligent, voice-interactive **multimodal Virtual Learning assistant** that helps students explore and understand visual academic content like diagrams, charts, handwritten notes, or Virtual Learning papers. Just **speak your query**, upload an image, and ElaRech will answer both visually and audibly.
 
 📸 Demo
 ![image](https://github.com/user-attachments/assets/83461316-c96e-4310-9442-f56b7fd2f516)
@@ -23,7 +23,7 @@
 
 ## 🔍 Features
 
-- 🎙️ **Voice Input**: Speak your research question naturally.
+- 🎙️ **Voice Input**: Speak your Virtual Learning question naturally.
 - 🧠 **Multimodal AI**: Combines your voice query with an uploaded image to give smart, context-aware answers.
 - 🖼️ **Image Understanding**: Upload diagrams, charts, handwritten pages, or screenshots — ElaRech understands them.
 - 💬 **LLM-Powered Responses**: Powered by `meta-llama/llama-4-scout-17b-16e-instruct` via Groq API.
@@ -37,7 +37,7 @@ ElaRech/
 ├── gradio_app.py # Main app with Gradio interface 
 ├── brain_of_the_elaRech.py # Core logic for image + query processing 
 ├── .env 
-├── voice_of_researcher.py 
+├── voice_of_Virtual Learninger.py 
 └── voice_of_user.py 
 
 
@@ -59,7 +59,7 @@ ELEVENLABS_API_KEY=your_elevenlabs_api_key
 python gradio_app.py
 
 ### 🎓 Example Use Case
-Upload a biology diagram and ask:
+Upload a diagram and ask:
 
 🗣️ "Explain this process in simple terms."
 
