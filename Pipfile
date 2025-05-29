@@ -6,12 +6,12 @@ name = "pypi"
 [packages]
 groq = "*"
 speechrecognition = "*"
-pydub = "*"
 python-dotenv = "*"
 pipwin = "*"
 gtts = "*"
 elevenlabs = "*"
 dotenv = "*"
+pydub = "*"
 
 [dev-packages]
 
