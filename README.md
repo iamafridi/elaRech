@@ -3,7 +3,8 @@
 **ElaRech** is an intelligent, voice-interactive **multimodal research assistant** that helps students explore and understand visual academic content like diagrams, charts, handwritten notes, or research papers. Just **speak your query**, upload an image, and ElaRech will answer both visually and audibly.
 
 📸 Demo
-![ElaRech](https://github.com/user-attachments/assets/8ec8b595-45c1-4b48-a3ed-829e2752ccc6)
+![image](https://github.com/user-attachments/assets/83461316-c96e-4310-9442-f56b7fd2f516)
+
 
 ---
 
@@ -35,7 +36,7 @@
 ElaRech/
 ├── gradio_app.py # Main app with Gradio interface 
 ├── brain_of_the_elaRech.py # Core logic for image + query processing 
-├── .env \n
+├── .env 
 ├── voice_of_researcher.py 
 └── voice_of_user.py 
 
@@ -69,9 +70,9 @@ MIT License
 
 
 ### 👤 Author
-Afridi Akbar Ifty
-GitHub: https://github.com/iamafridi
-Portfolio : https://iamafrididev.netlify.app
+Afridi Akbar Ifty /n
+GitHub: https://github.com/iamafridi /n
+Portfolio : https://iamafrididev.netlify.app /n
 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/iamafridi/) 
 
 
