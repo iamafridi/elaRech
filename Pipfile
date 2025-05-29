@@ -12,6 +12,7 @@ gtts = "*"
 elevenlabs = "*"
 dotenv = "*"
 pydub = "*"
+gradio = "*"
 
 [dev-packages]
 
