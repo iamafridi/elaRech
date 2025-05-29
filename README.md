@@ -33,11 +33,11 @@
 
 ## 📁 Project Structure
 ElaRech/
-├── gradio_app.py # Main app with Gradio interface \n
-├── brain_of_the_elaRech.py # Core logic for image + query processing \n
+├── gradio_app.py # Main app with Gradio interface 
+├── brain_of_the_elaRech.py # Core logic for image + query processing 
 ├── .env \n
-├── voice_of_researcher.py \n
-└── voice_of_user.py \n
+├── voice_of_researcher.py 
+└── voice_of_user.py 
 
 
 ---
@@ -69,10 +69,10 @@ MIT License
 
 
 ### 👤 Author
-Afridi Akbar Ifty \n
-GitHub: https://github.com/iamafridi \n
-Portfolio : https://iamafrididev.netlify.app \n
-LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/iamafridi/)  
+Afridi Akbar Ifty
+GitHub: https://github.com/iamafridi
+Portfolio : https://iamafrididev.netlify.app
+LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/iamafridi/) 
 
 
 
