@@ -9,16 +9,16 @@
 
 
 ### 🧠 Model Used
-Multimodal Model: meta-llama/llama-4-scout-17b-16e-instruct via Groq API
-Voice Recognition: Whisper
-TTS Engines: Google gTTS & ElevenLabs
+- **Multimodal Model**: meta-llama/llama-4-scout-17b-16e-instruct via Groq API
+- **Voice Recognition**: Whisper
+- **TTS Engines**: Google gTTS & ElevenLabs
 
 ### Tech Stack
-## Groq API – Ultra-fast LLM API
-## LLaMA-4 Vision Model – meta-llama/llama-4-scout-17b-16e-instruct
-## Whisper – For speech recognition
-## gTTS & ElevenLabs – For voice output
-## Gradio – For building the web interface
+ **Groq API** – Ultra-fast LLM API
+ **LLaMA-4 Vision Model** – meta-llama/llama-4-scout-17b-16e-instruct
+ **Whisper** – For speech recognition
+ **gTTS & ElevenLabs** – For voice output
+ **Gradio** – For building the web interface
 
 ## 🔍 Features
 
@@ -33,11 +33,11 @@ TTS Engines: Google gTTS & ElevenLabs
 
 ## 📁 Project Structure
 ElaRech/
-├── gradio_app.py # Main app with Gradio interface
-├── brain_of_the_elaRech.py # Core logic for image + query processing
-├── .env 
-├── voice_of_researcher.py
-└── voice_of_user.py
+├── gradio_app.py # Main app with Gradio interface \n
+├── brain_of_the_elaRech.py # Core logic for image + query processing \n
+├── .env \n
+├── voice_of_researcher.py \n
+└── voice_of_user.py \n
 
 
 ---
@@ -69,10 +69,10 @@ MIT License
 
 
 ### 👤 Author
-Afridi Akbar Ifty
-GitHub: https://github.com/iamafridi
-Portfolio : https://iamafrididev.netlify.app/
-LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/iamafridi/)
+Afridi Akbar Ifty \n
+GitHub: https://github.com/iamafridi \n
+Portfolio : https://iamafrididev.netlify.app \n
+LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/iamafridi/)  
 
 
 
